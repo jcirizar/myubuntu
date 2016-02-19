@@ -9,6 +9,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get update \
         libssl-dev \
         python \
         rsync \
+        vim \
         software-properties-common \
         wget \
         jpegoptim \
